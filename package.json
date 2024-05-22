@@ -1,0 +1,15 @@
+{
+  "name": "httpclient",
+  "version": "1.0.0",
+  "description": "httpclient",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "node-fetch": "^3.3.2"
+  }
+}
